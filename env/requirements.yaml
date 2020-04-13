@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.118
 - name: user-service
   repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
+  version: 0.0.2
